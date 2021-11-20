@@ -1,4 +1,4 @@
-package com.funnyboyroks.practice.ElevenNov;
+package com.funnyboyroks.practice._2021_11_11;
 
 import java.util.Scanner;
 

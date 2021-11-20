@@ -1,4 +1,4 @@
-package com.funnyboyroks.practice.NineSept.csc;
+package com.funnyboyroks.practice._2021_09_09.csc;
 
 import java.util.ArrayList;
 import java.util.List;
