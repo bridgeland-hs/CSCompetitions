@@ -1,6 +1,7 @@
 package com.funnyboyroks.real._2021_11_20;
 
 import java.io.File;
+import java.io.FileNotFoundException;
 import java.util.Arrays;
 import java.util.List;
 import java.util.Scanner;
@@ -8,7 +9,7 @@ import java.util.stream.Collectors;
 
 public class Nine {
 
-    public static void main(String[] args) {
+    public static void main(String[] args) throws FileNotFoundException {
         Scanner scanner = new Scanner(new File("loading.dat"));
 
         int lines = Integer.parseInt(scanner.nextLine());

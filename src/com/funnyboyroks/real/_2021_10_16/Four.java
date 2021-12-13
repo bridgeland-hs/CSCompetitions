@@ -1,4 +1,4 @@
-package me.bridgeland;
+package com.funnyboyroks.real._2021_10_16;
 
 import java.util.*;
 import java.util.stream.Collectors;
